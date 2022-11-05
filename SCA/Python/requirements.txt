@@ -1,8 +1,8 @@
 Django==3.1.13
 APScheduler==3.3.1
-Flask==0.12.2
+Flask==0.12.3
 Flask-Assets==0.12
-Jinja2==2.9.6
+Jinja2==2.11.3
 soco==0.12
 tzlocal==1.4
 uritemplate==3.0.0
